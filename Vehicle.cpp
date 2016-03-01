@@ -1,5 +1,5 @@
 /*
- * Ricardo Rigadon
+ * Ricardo Rigodon
  * Vehicle.cpp
  *
  * Instructor: Dr. DePasquale
