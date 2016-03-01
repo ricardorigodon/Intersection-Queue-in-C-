@@ -1,5 +1,5 @@
 /*
- * Ricardo Rigadon
+ * Ricardo Rigodon
  * Processor.h
  *
  * Instructor: Dr. DePasquale
