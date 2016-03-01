@@ -1,5 +1,5 @@
 /*
- * Ricardo Rigadon
+ * Ricardo Rigodon
  * LinkedQueue.h
  *
  * Instructor: Dr. DePasquale
