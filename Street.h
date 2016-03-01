@@ -1,5 +1,5 @@
 /*
- * Ricardo Rigadon
+ * Ricardo Rigodon
  * Street.h
  *
  * Instructor: Dr. DePasquale
