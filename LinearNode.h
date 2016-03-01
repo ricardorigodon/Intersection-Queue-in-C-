@@ -1,5 +1,5 @@
 /*
- * Ricardo Rigadon
+ * Ricardo Rigodon
  * LinearNode.h
  *
  * Instructor: Dr. DePasquale
