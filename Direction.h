@@ -1,5 +1,5 @@
 /*
- * Ricardo Rigadon
+ * Ricardo Rigodon
  * Direction.h
  *
  * Instructor: Dr. DePasquale
