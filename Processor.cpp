@@ -1,5 +1,5 @@
 /*
- * Ricardo Rigadon
+ * Ricardo Rigodon
  * Processor.cpp
  *
  * Instructor: Dr. DePasquale
