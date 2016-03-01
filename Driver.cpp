@@ -1,5 +1,5 @@
 /*
- * Ricardo Rigadon
+ * Ricardo Rigodon
  * Driver.cpp
  *
  * Instructor: Dr. DePasquale
